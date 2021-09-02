@@ -10,12 +10,6 @@ copyright = "Designed & Developed By [Rahul Biswas](https://rahulbiswas.net/)"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
