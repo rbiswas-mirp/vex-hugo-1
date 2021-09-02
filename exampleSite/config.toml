@@ -1,7 +1,7 @@
 baseurl = "https://p2p-rental.netlify.app"
 disableLanguages = []
 googleAnalytics = ""
-summarylength = "20"
+summarylength = "50"
 theme = "P2P Rental"
 title = "P2P Rental"
 [Languages.en]
@@ -44,7 +44,7 @@ weight = 5
 author = "Rahul Biswas"
 contact_form_action = "#"
 currency = "$"
-description = "This is meta description"
+description = "P2P Rental"
 logo = "images/logo.png"
 logo_width = "100px"
 snipcart_api = ""
