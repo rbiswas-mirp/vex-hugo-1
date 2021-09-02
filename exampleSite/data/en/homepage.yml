@@ -10,10 +10,11 @@ banner:
   button:
     enable: true
     label: Learn More
-    link: "https://p2p-rental.netlify.app/#features"
+    link: "/#features"
 features:
   enable: true
-  title: Our Core Features {#features}
+  {#features}
+  title: Our Core Features
   image: images/watch-2.png
   left_side:
   - title: Smooth Touch
