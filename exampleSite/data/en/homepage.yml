@@ -13,7 +13,6 @@ banner:
     link: "/#features"
 features:
   enable: true
-  {#features}
   title: Our Core Features
   image: images/watch-2.png
   left_side:
