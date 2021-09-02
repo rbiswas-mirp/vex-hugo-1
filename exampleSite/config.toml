@@ -2,7 +2,7 @@ baseurl = "https://p2p-rental.netlify.app"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
-theme = "vex-hugo"
+theme = "P2P Rental"
 title = "P2P Rental"
 [Languages.en]
 contentDir = "content/english"
