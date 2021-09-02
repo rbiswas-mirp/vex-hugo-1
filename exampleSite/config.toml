@@ -3,7 +3,7 @@ disableLanguages = []
 googleAnalytics = ""
 summarylength = "50"
 theme = "P2P Rental"
-title = "P2P Rental"
+title = "P2P Rental | Your One-Stop Site for Peer-to-peer Product Rental Service"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed & Developed By [Rahul Biswas](https://rahulbiswas.net/)"
@@ -13,29 +13,13 @@ weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Blog"
-url = "blog"
-weight = 1
-[[menu.footer]]
 name = "Contact"
 url = "contact"
 weight = 2
-[[menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions"
-weight = 3
-[[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 4
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
-[[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 3
 [[menu.main]]
 name = "Contact"
 url = "contact"
@@ -44,7 +28,7 @@ weight = 5
 author = "Rahul Biswas"
 contact_form_action = "#"
 currency = "$"
-description = "P2P Rental"
+description = "P2P Rental | Your One-Stop Site for Peer-to-peer Product Rental Service"
 logo = "images/logo.png"
 logo_width = "100px"
 snipcart_api = ""
