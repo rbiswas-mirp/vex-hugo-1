@@ -10,7 +10,7 @@ banner:
   button:
     enable: true
     label: Learn More
-    link: "{{.URL}}#foo"
+    link: "https://p2p-rental.netlify.app/#features"
 features:
   enable: true
   title: Our Core Features {#features}
