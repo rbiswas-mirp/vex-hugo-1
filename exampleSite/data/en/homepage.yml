@@ -10,7 +10,7 @@ banner:
   button:
     enable: true
     label: Learn More
-    link: "%23features"
+    link: "#features"
 features:
   enable: true
   title: Our Core Features
