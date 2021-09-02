@@ -3,7 +3,7 @@ disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+title = "P2P Rental"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed & Developed By [Rahul Biswas](https://rahulbiswas.net/)"
