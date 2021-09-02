@@ -11,6 +11,7 @@ banner:
     enable: true
     label: Browse All Products
     link: products
+[Features]({{<ref "#features" >}}) 
 features:
   enable: true
   title: Our Core Features
