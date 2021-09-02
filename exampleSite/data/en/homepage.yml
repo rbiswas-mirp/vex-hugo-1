@@ -10,10 +10,10 @@ banner:
   button:
     enable: true
     label: Learn More
-    link: {"#features"}
+    link: "features"
 features:
   enable: true
-  title: Our Core Features
+  title: Our Core Features {#features}
   image: images/watch-2.png
   left_side:
   - title: Smooth Touch
